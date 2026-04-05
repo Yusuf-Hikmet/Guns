@@ -14,6 +14,7 @@ A Roblox Studio gun system featuring multiple weapons.
 - Inventory system
 - DataStore
 - Shop system
+- Game loop
 
 ## Structure
 src/
